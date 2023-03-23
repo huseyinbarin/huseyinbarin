@@ -7,7 +7,7 @@
 
 - Passionate about coding, learning new technologies, and playing chess.
  
-
+______________________________
 
 
 ### 💻 Skiills
@@ -26,6 +26,9 @@
 - Git | Version Control System
 
 - Jira, Kanban, Scrum | Collaboration and Task Management
+
+______________________________
+
 
 
 ### 📫 Connect with me
