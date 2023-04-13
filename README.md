@@ -15,11 +15,11 @@ ______________________________
 
 - Java, Kotlin, Android, GraphQL | Native Mobile Development (Android)
 
-- Java, Kotlin, Spring, API Development, Data Structures, Relatinal Databases, Redis, SQL | Backend Development
+- Java, Kotlin, Spring, API Development, Data Structures, Relatinal Databases, Redis, RabbitMQ, SQL | Backend Development
 
 - Docker, Jenkins, Kubernetes, Linux, Cloud Computing | CI/CD
 
-- Unit Test, Integration and A/B Testing | Test Driven Development
+- Integration and A/B Testing, Cypress, Mockito, JUnit5 | Test Driven Development 
 
 - Bash, Ruby, Ruby on Rails | Scripting and Backend Applications
 
